@@ -1,0 +1,20 @@
+1.yatay 180 derece dikey 60 derece oldugunu göstermemizi istiyorlar 
+-bunu joystick kullanarak ekranda gösterilen açılara döndürerek ve aynı zamanda sistemi göstererek anlatıcağız
+#Ardinio ile haberleşme yapılacak - portlardan veri girişi pythondan alınıcak 
+
+2.acil durdur yeteneğininn gösterimi 
+-jostickle biraz hareket ettirirken ateş edip hareket ve atış yeteneğinin oldugunu gösterdikten sonra acil durum düğmesine basacağız bu tüm sistemi kilitleyecek ve atış ve hareket butonları çalışmayacak
+#ilk aşamadaki görevler ve Ardinio'ya veri göndermeden önce acil durum butonu koşulu koyulması
+
+3.hedef takip yeteneğinin gösterimi 
+-hem ekranı hem silahı göstererek silahın önüne bir hedef koyup hedefi hareket ettireceğiz .
+-ekranda hedefin merkezde oldugunu göstermemiz lazım.
+#ekranda Silahın açısı gösterilecek.Silah hedefin tam ortasına kitlenecek
+
+4.hedef imha gösterimi
+-manuel modda hedefe nişan alıp hedefi imha ediceğiz
+#1. aşamadaki görevler
+
+5.dost düşman tanıma
+-bir madde olarak verilmemiş ama ana başlığın altında dost düşman tanıma yazıyor . yukardaki etaplardan birinde veyahut ekstra bir etap olarak dost ve düşmanların ayırt edildiğini göstericeğiz
+#bulunan nesnelerin renklerini bulma

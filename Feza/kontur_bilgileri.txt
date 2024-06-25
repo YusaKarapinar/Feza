@@ -1,0 +1,2 @@
+Kontur ID: 1, Renk: [138 124  98], Konum: (301, 305), Alan: 14501.5 , Merkeze uzaklik: (-19,105)
+Kontur ID: 2, Renk: [54 66 79], Konum: (310, 352), Alan: 2376.5 , Merkeze uzaklik: (-10,152)
