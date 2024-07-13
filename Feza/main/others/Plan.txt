@@ -1,0 +1,20 @@
+
+--Nesne Bulma Hareketsiz hedef
+1.Kontur bulma algoritmasından  Siyah beyaz bir çıktı al
+2.Renk Karşılaştırma algoritmasından Mavi-Kırmızı-Diğer olarak 3 farklı Maskeye tabi tut 
+3.mavi ve kırmızı maskeyi birleştir ve Kontur algoritmasıyla örtüştüğü yerleri bul 
+4.Kırmızı Ve mavi Noktaları dost düşman olarak indexle 
+
+
+--Nesne Bulma Hareketli Nesne
+1.Kontur bulma algoritmasından  Siyah beyaz bir çıktı al
+2.Renk Karşılaştırma algoritmasından Mavi-Kırmızı-Diğer olarak 3 farklı Maskeye tabi tut ve mavi ve kırmızı maskeyi birleştir 
+3.Optic flow algortmasıyla Köşeleri bul
+4.optic flow algoritmasından gelen çıktıdaki belli bölgelerde köşelerin toplandıgını tespit et ve bunları bir listeye at
+5.bu listedeki her bir yoğunluk bölgesi için bölgedeki tüm noktaları içine alacak en küçük çemberleri tespit et 
+6.Kontur bulma algoritması,Renk tespit algoritması ve Optic flowdan buldugumuz dairelerin kesiştiği bölgeri bul.
+7.bu noktaları Dost ve düşman olarak indexle
+
+
+
+

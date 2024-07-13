@@ -1,0 +1,8 @@
+Kontur ID: 1, Renk: [108 107 164], Konum: (457, 92), Alan: 4228.0 , Merkeze uzaklik: (137,-108)
+Kontur ID: 2, Renk: [112 178 151], Konum: (245, 258), Alan: 3418.0 , Merkeze uzaklik: (-75,58)
+Kontur ID: 3, Renk: [179 176 143], Konum: (394, 221), Alan: 3241.5 , Merkeze uzaklik: (74,21)
+Kontur ID: 4, Renk: [175 135  97], Konum: (85, 173), Alan: 1939.5 , Merkeze uzaklik: (-235,-27)
+Kontur ID: 5, Renk: [114 151 189], Konum: (491, 293), Alan: 1167.5 , Merkeze uzaklik: (171,93)
+Kontur ID: 6, Renk: [123 180 181], Konum: (202, 86), Alan: 674.5 , Merkeze uzaklik: (-118,-114)
+Kontur ID: 7, Renk: [112 130 191], Konum: (139, 111), Alan: 637.5 , Merkeze uzaklik: (-181,-89)
+Kontur ID: 8, Renk: [166 143 129], Konum: (385, 321), Alan: 448.5 , Merkeze uzaklik: (65,121)

@@ -1,0 +1,1 @@
+get_background_color
